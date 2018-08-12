@@ -1,2 +1,2 @@
 # safecash
-A USD equivalent Safecoin Asset Chain (completion in progress)
+A USD equivalent Digital Currency system under SafeCoin (completion in progress)
